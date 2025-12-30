@@ -10,7 +10,9 @@
 [![hacs][hacsbadge]][hacs]
 [![Project Maintenance][maintenance-shield]][user_profile]
 
-TODO
+_Integration to interact with Green Button energy data in Home Assistant._
+
+**Requires Python 3.11+**
 
 **This component will set up the following platforms.**
 
@@ -19,6 +21,10 @@ TODO
 | `number` | TODO        |
 
 ## Installation
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mexicanamerican&repository=home-assistant-green-button&category=integration)
+
+### Manual Installation
 
 1. Install the code using [HACS](https://hacs.xyz/)
 2. Restart Home Assistant
